@@ -99,7 +99,7 @@ To run the example/test (after installing deps):
 
 
 ## License
-The repository includes a LICENSE.txt placeholder. The setup metadata currently states license="GPL-3.0" but the classifier lists MIT. Choose the correct license for your project and update both the license field and the classifier accordingly, and populate LICENSE.txt with the full text.
+license="GPL-3.0".
 
 
 ## Project Links
