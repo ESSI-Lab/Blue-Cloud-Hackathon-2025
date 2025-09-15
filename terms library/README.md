@@ -1,6 +1,6 @@
 # DAB API Client (Terms)
 
-A lightweight Python client to fetch terms from the DAB Terms API. This repository contains a minimal client for retrieving controlled vocabulary terms (e.g., instruments) from the Blue-Cloud/GeoDAB service using a token and view.
+A Python client to fetch terms from the DAB Terms API. This repository contains a minimal client for retrieving controlled vocabulary terms (e.g., instruments) from the Blue-Cloud/GeoDAB service using a token and view.
 
 Package name: dab_api_client
 Top-level module: DAB_TERMS_API
@@ -99,7 +99,7 @@ To run the example/test (after installing deps):
 
 
 ## License
-The repository includes a LICENSE.txt placeholder. The setup metadata currently states license="GPL-3.0" but the classifier lists MIT. Choose the correct license for your project and update both the license field and the classifier accordingly, and populate LICENSE.txt with the full text.
+license="GPL-3.0".
 
 
 ## Project Links
