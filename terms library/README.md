@@ -104,3 +104,13 @@ The repository includes a LICENSE.txt placeholder. The setup metadata currently 
 
 ## Project Links
 - Source: https://github.com/ESSI-Lab/Blue-Cloud-Hackathon-2025/tree/main
+
+
+## Helper scripts to create a virtual environment
+If you prefer an automated setup, this repo includes simple helpers:
+- Windows (PowerShell):
+  - ./create_venv.ps1
+- macOS/Linux (bash):
+  - ./create_venv.sh
+
+Both scripts will create .venv, upgrade pip, and (if present) install dependencies from requirments.txt.
