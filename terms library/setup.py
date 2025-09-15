@@ -9,12 +9,12 @@ setup(
         # "pydantic",  # uncomment if you use pydantic models
         # "fastapi",   # uncomment if you build an API client/server
     ],
-    license="MIT",
-    author="Ahmad-m9",
+    license="GPL-3.0",
+    author="Ahmad Mahmoud (CNR internship)",
     description="A Python client for interacting with the DAB API.",
     long_description=open("README.md", encoding="utf-8").read(),
     long_description_content_type="text/markdown",
-    url="https://github.com/Ahmad-m9/dab_api_client",
+    url="https://github.com/ESSI-Lab/Blue-Cloud-Hackathon-2025/tree/main",
     classifiers=[
         "Programming Language :: Python :: 3",
         "License :: OSI Approved :: MIT License",
